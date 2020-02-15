@@ -53,6 +53,7 @@ class BaseSearch {
   }
 }
 
+
 const users = [
   {
     "balance": "$3,946.45",
